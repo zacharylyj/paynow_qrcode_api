@@ -1,5 +1,5 @@
 { 
-  "name": "Paynow",
+  "name": "paynow_qr_gen",
   "version": "5.1.2",
   "description": "O8 Donor Paynow QR code",
   "main": "index.js",
