@@ -1,0 +1,26 @@
+{ 
+  "name": "Paynow",
+  "version": "5.1.2",
+  "description": "O8 Donor Paynow QR code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prog": "\"nodemon ./backend/server\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharylyj"
+  },
+  "author": "Zachary Leong Yao Jie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacharylyj"
+  },
+  "homepage": "https://github.com/zacharylyj",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "paynowqr": "^1.1.2",
+    "qrcode": "^1.5.3"
+  }
+}
